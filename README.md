@@ -1,6 +1,6 @@
 # Dimensional-Expansion-of-X-Fields
 
-Content:
+Contents:
 - Interim Research Paper: Research paper based on experiments and results as of July. Final research paper will be available in January after the incorporation of Transformer Networks to the present model.
 - Presentation: Slides for my presentation at Eleventh Annual Fall Term MIT PRIMES Conference from October 16-17, 2021.
 - Code: The code used to produce the results.
